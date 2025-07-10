@@ -1,0 +1,1 @@
+This directory includes part 1 and part 2 of the Housing Prediction Report for the Fair Market Value of Homes in the USA for the year 2013. It is based on housing data from 2011. The model used is a linear regression. 
